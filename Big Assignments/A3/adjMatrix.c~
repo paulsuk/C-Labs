@@ -1,0 +1,13 @@
+#include "assignment3.h"
+
+struct Edge ** initAdjMatrix(){
+}
+
+void insertAdjMatrix(struct Edge ** aM, int vi, int vj, int flow, int flowCap){
+}
+
+void deleteAdjMatrix(struct Edge ** aM){
+}
+
+void printAdjMat(struct Edge ** aM){
+}

@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct Data{
+};
+
+struct Node{
+};
+
+struct Queue{
+};
+
+struct Queue initQueue();
+void enqueue(struct Queue *qPtr, struct Data d);
+struct Data dequeue(struct Queue *qPtr);
+void freeQueue(struct Queue *qPtr);
