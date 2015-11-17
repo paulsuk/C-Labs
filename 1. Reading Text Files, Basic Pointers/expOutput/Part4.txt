@@ -1,0 +1,2 @@
+The determinant of the matrix in matrix2.txt is 6080
+The determinant of the matrix in matrix1.txt is -413
